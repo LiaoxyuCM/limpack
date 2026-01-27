@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_sword",
+  "category": "equipment",
+  "pattern": [
+    "B",
+    "B",
+    "T"
+  ],
+  "key": {
+    "B": [
+      "minecraft:netherite_ingot"
+    ],
+    "T": [
+      "stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "count": 1
+  }
+}

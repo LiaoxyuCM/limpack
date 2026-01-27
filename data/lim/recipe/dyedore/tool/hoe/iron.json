@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_hoe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:hoes",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_hoe",
+    "count": 1
+  }
+}

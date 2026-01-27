@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_sword",
+    "count": 1
+  }
+}

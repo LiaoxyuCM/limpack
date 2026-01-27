@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_boots",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:foot_armor",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_boots",
+    "count": 1
+  }
+}

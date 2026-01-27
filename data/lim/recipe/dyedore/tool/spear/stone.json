@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "#minecraft:stone_crafting_materials"
+  ],
+  "result": {
+    "id": "minecraft:stone_spear",
+    "count": 1
+  }
+}

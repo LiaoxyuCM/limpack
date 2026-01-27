@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_shovel",
+  "category": "equipment",
+  "pattern": [
+    "B",
+    "T",
+    "T"
+  ],
+  "key": {
+    "B": [
+      "minecraft:netherite_ingot"
+    ],
+    "T": [
+      "stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_spear",
+    "count": 1
+  }
+}

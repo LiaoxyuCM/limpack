@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_chestplate",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:chest_armor",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_chestplate",
+    "count": 1
+  }
+}

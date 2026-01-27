@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "netherite_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "minecraft:netherite_spear",
+    "count": 1
+  }
+}

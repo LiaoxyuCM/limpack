@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_axe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:axes",
+    "#minecraft:stone_crafting_materials"
+  ],
+  "result": {
+    "id": "minecraft:stone_axe",
+    "count": 1
+  }
+}

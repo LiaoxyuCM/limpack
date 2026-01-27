@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "leather_helmet",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:head_armor",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:leather_helmet",
+    "count": 1
+  }
+}

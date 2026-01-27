@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_axe",
+  "category": "equipment",
+  "pattern": [
+    "BB",
+    "BT",
+    " T"
+  ],
+  "key": {
+    "B": [
+      "minecraft:netherite_ingot"
+    ],
+    "T": [
+      "stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "count": 1
+  }
+}

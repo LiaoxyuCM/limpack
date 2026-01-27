@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_leggings",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:leg_armor",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_leggings",
+    "count": 1
+  }
+}

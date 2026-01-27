@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_helmet",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:head_armor",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_helmet",
+    "count": 1
+  }
+}

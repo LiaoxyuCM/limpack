@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_boots",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:foot_armor",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_boots",
+    "count": 1
+  }
+}

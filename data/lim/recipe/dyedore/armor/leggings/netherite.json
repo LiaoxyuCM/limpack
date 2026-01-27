@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "netherite_leggings",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:leg_armor",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "minecraft:netherite_leggings",
+    "count": 1
+  }
+}

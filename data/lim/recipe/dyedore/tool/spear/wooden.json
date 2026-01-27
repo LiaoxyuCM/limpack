@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_spear",
+    "count": 1
+  }
+}

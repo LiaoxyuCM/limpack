@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_shovel",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:shovels",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "count": 1
+  }
+}

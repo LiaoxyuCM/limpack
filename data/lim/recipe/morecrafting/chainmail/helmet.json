@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chainmail_helmet",
+  "category": "equipment",
+  "pattern": [
+    "BBB",
+    "B B"
+  ],
+  "key": {
+    "B": "#minecraft:chains"
+  },
+  "result": {
+    "id": "minecraft:chainmail_helmet"
+  }
+}

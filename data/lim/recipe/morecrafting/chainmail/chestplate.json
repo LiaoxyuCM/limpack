@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chainmail_chestplate",
+  "category": "equipment",
+  "pattern": [
+    "B B",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": "#minecraft:chains"
+  },
+  "result": {
+    "id": "minecraft:chainmail_chestplate"
+  }
+}

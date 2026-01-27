@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_shovel",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:shovels",
+    "#minecraft:stone_crafting_materials"
+  ],
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "count": 1
+  }
+}

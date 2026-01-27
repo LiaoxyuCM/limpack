@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_pickaxe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:pickaxes",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_helmet",
+  "category": "equipment",
+  "pattern": [
+    "BBB",
+    "B B"
+  ],
+  "key": {
+    "B": [
+      "minecraft:netherite_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_helmet"
+  }
+}

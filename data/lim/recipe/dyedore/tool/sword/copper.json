@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "minecraft:copper_sword",
+    "count": 1
+  }
+}

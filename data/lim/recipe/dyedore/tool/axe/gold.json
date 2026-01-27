@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_axe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:axes",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_axe",
+    "count": 1
+  }
+}

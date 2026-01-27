@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "netherite_shovel",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:shovels",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "minecraft:netherite_shovel",
+    "count": 1
+  }
+}

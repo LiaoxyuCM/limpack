@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "count": 1
+  }
+}

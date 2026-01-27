@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_pickaxe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:pickaxes",
+    "#minecraft:stone_crafting_materials"
+  ],
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

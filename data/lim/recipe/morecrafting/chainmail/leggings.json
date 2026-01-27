@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chainmail_leggings",
+  "category": "equipment",
+  "pattern": [
+    "BBB",
+    "B B",
+    "B B"
+  ],
+  "key": {
+    "B": "#minecraft:chains"
+  },
+  "result": {
+    "id": "minecraft:chainmail_leggings"
+  }
+}

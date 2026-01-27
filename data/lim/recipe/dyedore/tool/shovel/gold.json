@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_shovel",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:shovels",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_shovel",
+    "count": 1
+  }
+}

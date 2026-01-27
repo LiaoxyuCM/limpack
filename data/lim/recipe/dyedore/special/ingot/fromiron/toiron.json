@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:white_dye"
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_sword",
+    "count": 1
+  }
+}

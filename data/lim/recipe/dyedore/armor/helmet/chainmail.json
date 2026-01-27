@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chainmail_helmet",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:head_armor",
+    "#minecraft:chains"
+  ],
+  "result": {
+    "id": "minecraft:chainmail_helmet",
+    "count": 1
+  }
+}

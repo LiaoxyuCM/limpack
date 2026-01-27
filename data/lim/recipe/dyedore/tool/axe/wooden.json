@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_axe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:axes",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_spear",
+    "count": 1
+  }
+}

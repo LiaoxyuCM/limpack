@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_spear",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:spears",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_spear",
+    "count": 1
+  }
+}

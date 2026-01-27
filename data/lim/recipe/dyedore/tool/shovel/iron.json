@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_shovel",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:shovels",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "#minecraft:stone_crafting_materials"
+  ],
+  "result": {
+    "id": "minecraft:stone_sword",
+    "count": 1
+  }
+}

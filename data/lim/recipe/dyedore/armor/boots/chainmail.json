@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chainmail_boots",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:foot_armor",
+    "#minecraft:chains"
+  ],
+  "result": {
+    "id": "minecraft:chainmail_boots",
+    "count": 1
+  }
+}

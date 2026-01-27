@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_sword",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:swords",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_leggings",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:leg_armor",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_leggings",
+    "count": 1
+  }
+}

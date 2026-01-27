@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_axe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:axes",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "count": 1
+  }
+}

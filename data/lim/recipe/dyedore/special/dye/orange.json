@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "orange_dye",
+  "ingredients": [
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "minecraft:orange_dye",
+    "count": 9
+  }
+}

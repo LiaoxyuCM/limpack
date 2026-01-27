@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "diamond_pickaxe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:pickaxes",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "minecraft:diamond_pickaxe",
+    "count": 1
+  }
+}

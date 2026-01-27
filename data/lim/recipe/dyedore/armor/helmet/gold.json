@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "golden_helmet",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:head_armor",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:golden_helmet",
+    "count": 1
+  }
+}

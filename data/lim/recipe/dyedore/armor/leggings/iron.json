@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_leggings",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:leg_armor",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "minecraft:iron_leggings",
+    "count": 1
+  }
+}

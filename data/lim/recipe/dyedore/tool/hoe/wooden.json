@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_hoe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:hoes",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_boots",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:foot_armor",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "minecraft:copper_boots",
+    "count": 1
+  }
+}

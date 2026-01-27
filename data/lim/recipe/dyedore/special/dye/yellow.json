@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "yellow_dye",
+  "ingredients": [
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:yellow_dye",
+    "count": 9
+  }
+}

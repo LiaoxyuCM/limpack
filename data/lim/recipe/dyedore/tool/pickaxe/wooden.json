@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_pickaxe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:pickaxes",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  }
+}

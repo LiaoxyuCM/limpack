@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "netherite_pickaxe",
+  "category": "equipment",
+  "pattern": [
+    "BBB",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "B": [
+      "minecraft:netherite_ingot"
+    ],
+    "T": [
+      "stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_pickaxe",
+    "count": 1
+  }
+}

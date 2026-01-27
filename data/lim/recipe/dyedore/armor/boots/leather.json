@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "leather_boots",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:foot_armor",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:leather_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "netherite_hoe",
+  "category": "equipment",
+  "ingredients": [
+    "#minecraft:hoes",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "minecraft:netherite_hoe",
+    "count": 1
+  }
+}
