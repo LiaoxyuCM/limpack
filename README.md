@@ -17,3 +17,4 @@ lim
 - Kill animals drops their cooked meat, not raw meat.
 - In crafting table, an ingot + \(white \| yellow \| orange \| black\) dye =&gt; \(iron \| gold \| copper \| netherite \) ingot.
 - In crafting table, \(iron \| gold \| copper \| netherite \) ingot =&gt; \(white \| yellow \| orange \| black\) dyes * 9
+- 100% ender pearls on piglin bartering
