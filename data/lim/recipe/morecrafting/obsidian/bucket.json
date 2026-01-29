@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "obsidian",
+  "category": "building",
+  "ingredients": [
+    "minecraft:water_bucket",
+    "minecraft:lava_bucket"
+  ],
+  "result": {
+    "id": "minecraft:obsidian",
+    "count": 1
+  }
+}
