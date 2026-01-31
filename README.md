@@ -22,6 +22,8 @@ lim
 
 ## Structures
 
+Use `place template`.
+
 ```
 lim:skyblock/single
 lim:skyblock/default
