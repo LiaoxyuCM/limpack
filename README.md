@@ -19,3 +19,10 @@ lim
 - In crafting table, \(iron \| gold \| copper \| netherite \) ingot =&gt; \(white \| yellow \| orange \| black\) dyes * 9
 - 100% ender pearls on piglin bartering
 - In crafting table, water bucket + lava bucket =&gt; 1 obsidian
+
+## Structures
+
+```
+lim:skyblock/single
+lim:skyblock/default
+```
