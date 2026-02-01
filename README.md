@@ -22,11 +22,10 @@ lim
 
 ## Structures
 
-Please `place template`.
-
-Structures `skyblock` from a bedrock server Lifeboat.
+Please use `place template`.
 
 ```
 lim:skyblock/single
 lim:skyblock/default
+lim:skyblock/grid
 ```
