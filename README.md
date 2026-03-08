@@ -20,6 +20,9 @@ lim
 - 100% ender pearls on piglin bartering
 - Always drop a wither skeleton skull after killing a wither skeleton
 - In crafting table, water bucket + lava bucket =&gt; 1 obsidian
+- Drops 16~64 emeralds after killing villager.
+- Name tag recipe
+- \(Higher chances of falling apple\) and \(some chances of falling golden apple\) after excavating oak leaves
 
 ## Structures
 
