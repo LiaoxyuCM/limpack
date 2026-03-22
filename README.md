@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Minecraft JE 1.21.2 \(or greater\)
+- Minecraft JE 25w42a \(or greater\)
 
 ## Using namespace
 
@@ -23,6 +23,13 @@ lim
 - Drops 16~64 emeralds after killing villager.
 - Name tag recipe
 - \(Higher chances of falling apple\) and \(some chances of falling golden apple\) after excavating oak leaves
+- Enchanted golden apple crafting: 1 golden apple \(Place it to the center\) and 8 gold ingots
+- God mode book and its crafting \(requires 3 netherite blocks, 3 enchanted golden apples, 2 nether stars and 1 dragon egg\)
+
+## Functions
+
+- `lim:ultimate` for ultimate|god mode.
+- `lim:unultimate` to disable ultimate|god mode.
 
 ## Structures
 
