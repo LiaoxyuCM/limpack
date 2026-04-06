@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "chainmail_leggings",
   "category": "equipment",
   "pattern": [
     "ABA",
@@ -17,27 +16,35 @@
     "id": "minecraft:written_book",
     "components": {
       "written_book_content": {
-        "author": "******",
+        "author": "§k****** * *****",
         "title": "Godmode book",
         "pages": [
-          {
-            "text": "Enable god mode",
-            "color": "blue",
-            "underlined": true,
-            "click_event": {
-              "action": "run_command",
-              "command": "function lim:ultimate"
+          [
+            {
+              "text": "Control panel\n"
+            },
+            {
+              "text": "Enable god mode",
+              "color": "blue",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:ultimate"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Disable god mode",
+              "color": "red",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:unultimate"
+              }
             }
-          },
-          {
-            "text": "Disable god mode",
-            "color": "red",
-            "underlined": true,
-            "click_event": {
-              "action": "run_command",
-              "command": "function lim:unultimate"
-            }
-          }
+          ]
         ]
       }
     }
