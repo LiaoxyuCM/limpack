@@ -24,7 +24,7 @@
               "text": "Control panel\n"
             },
             {
-              "text": "Enable god mode",
+              "text": "Enable All",
               "color": "blue",
               "underlined": true,
               "click_event": {
@@ -36,12 +36,84 @@
               "text": "\n"
             },
             {
-              "text": "Disable god mode",
+              "text": "Enable Effects",
+              "color": "blue",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:ult/effects"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Enable Equipments",
+              "color": "blue",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:ult/equipments"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Enable Weapons",
+              "color": "blue",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:ult/weapons"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Disable All",
               "color": "red",
               "underlined": true,
               "click_event": {
                 "action": "run_command",
                 "command": "function lim:unultimate"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Disable Effects",
+              "color": "red",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:unult/effects"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Disable Equipments",
+              "color": "red",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:unult/equipments"
+              }
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Disable Weapons",
+              "color": "red",
+              "underlined": true,
+              "click_event": {
+                "action": "run_command",
+                "command": "function lim:unult/weapons"
               }
             }
           ]
