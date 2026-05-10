@@ -15,6 +15,7 @@
   "result": {
     "id": "minecraft:written_book",
     "components": {
+      "rarity": "epic",
       "written_book_content": {
         "author": "§k****** * *****",
         "title": "Godmode book",
@@ -24,7 +25,7 @@
               "text": "Control panel\n"
             },
             {
-              "text": "Enable All",
+              "text": "Enable All\n启用所有",
               "color": "blue",
               "underlined": true,
               "click_event": {
@@ -33,10 +34,10 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Enable Effects",
+              "text": "Enable Effects\n启用效果",
               "color": "blue",
               "underlined": true,
               "click_event": {
@@ -45,10 +46,10 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Enable Equipments",
+              "text": "Enable Equipments\n启用装备",
               "color": "blue",
               "underlined": true,
               "click_event": {
@@ -57,22 +58,21 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Enable Weapons",
+              "text": "Enable Weapons\n启用武器",
               "color": "blue",
               "underlined": true,
               "click_event": {
                 "action": "run_command",
                 "command": "function lim:ult/weapons"
               }
-            },
+            }
+          ],
+          [
             {
-              "text": "\n"
-            },
-            {
-              "text": "Disable All",
+              "text": "Disable All\n关闭所有",
               "color": "red",
               "underlined": true,
               "click_event": {
@@ -81,10 +81,10 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Disable Effects",
+              "text": "Disable Effects\n关闭效果",
               "color": "red",
               "underlined": true,
               "click_event": {
@@ -93,10 +93,10 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Disable Equipments",
+              "text": "Disable Equipments\n关闭装备",
               "color": "red",
               "underlined": true,
               "click_event": {
@@ -105,10 +105,10 @@
               }
             },
             {
-              "text": "\n"
+              "text": "\n\n"
             },
             {
-              "text": "Disable Weapons",
+              "text": "Disable Weapons\n关闭武器",
               "color": "red",
               "underlined": true,
               "click_event": {
