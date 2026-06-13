@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Minecraft JE 25w42a \(or greater\)
+- Minecraft JE 25w42a ~ 26.2-snapshot-2
 
 ## Using namespace
 
