@@ -4,6 +4,8 @@
 
 - Minecraft JE 26.2-snapshot-3 \(or greater\)
 
+Versions of 25w42a ~ 26.2-snapshot-2 are branched [here](https://github.com/LiaoxyuCM/limpack/tree/1.21.11-26.1)
+
 ## Using namespace
 
 lim
