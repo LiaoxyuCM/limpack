@@ -2,10 +2,11 @@
 
 ## Requirements
 
-- Minecraft JE 26.2-snapshot-3 ~ 26.3-snapshot-3
+- Minecraft JE 26.2-snapshot-4 \(or greater\)
 
-Versions of 25w42a ~ 26.2-snapshot-2 are branched [here](https://github.com/LiaoxyuCM/limpack/tree/1.21.11-26.1)
-\(Suspended\)
+Branches \(Only main branch is active, other branches are suspended\)
+- 25w42a ~ 26.2-ss2: [here](https://github.com/LiaoxyuCM/limpack/tree/1.21.11-26.1)
+- 26.2-ss3 ~ 26.3-ss3: [here](https://github.com/LiaoxyuCM/limpack/tree/26.2)
 
 
 ## Using namespace
@@ -20,7 +21,7 @@ lim
 - Mine copper, iron, gold and lapis lazuli \(netherite\) drops their ingot, not their raw ore.
 - Kill animals drops their cooked meat, not raw meat.
 - In crafting table, an ingot + \(white \| yellow \| orange \| black\) dye =&gt; \(iron \| gold \| copper \| netherite \) ingot.
-- In crafting table, \(iron \| gold \| copper \| netherite \) ingot =&gt; \(white \| yellow \| orange \| black\) dyes * 9 \(Can be reversed\)
+- In crafting table, \(iron \| gold \| copper \| netherite \) ingot =&gt; \(white \| yellow \| orange \| black\) dyes \* 9 \(Can be reversed\)
 - 100% ender pearls on piglin bartering
 - Always drop a wither skeleton skull after killing a wither skeleton
 - In crafting table, water bucket + lava bucket =&gt; 1 obsidian

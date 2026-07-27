@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": "Version: §a3.9.2§c",
-    "pack_format": 107,
-    "min_format": 102,
-    "max_format": 110
+    "pack_format": 112,
+    "min_format": 111,
+    "max_format": 112
   }
 }

@@ -2,55 +2,31 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:alternatives",
           "children": [
             {
               "type": "minecraft:item",
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "predicates": {
-                      "minecraft:enchantments": [
-                        {
-                          "enchantments": "minecraft:silk_touch",
-                          "levels": {
-                            "min": 1
-                          }
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
+              "condition": "minecraft:tool/can_silk_touch",
               "name": "minecraft:gravel"
             },
             {
-              "type": "minecraft:alternatives",
-              "children": [
+              "type": "minecraft:item",
+              "modifier": [
                 {
-                  "type": "minecraft:item",
-                  "functions": [
-                    {
-                      "enchantment": "minecraft:fortune",
-                      "formula": "minecraft:ore_drops",
-                      "function": "minecraft:apply_bonus"
-                    },
-                    {
-                      "function": "minecraft:explosion_decay"
-                    }
-                  ],
-                  "name": "minecraft:flint"
+                  "type": "minecraft:apply_bonus",
+                  "enchantment": "minecraft:fortune",
+                  "formula": "minecraft:ore_drops"
+                },
+                {
+                  "type": "minecraft:explosion_decay"
                 }
               ],
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
-              ]
+              "name": "minecraft:flint",
+              "condition": {
+                "type": "minecraft:survives_explosion"
+              }
             }
           ]
         }
