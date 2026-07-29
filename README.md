@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Minecraft JE 26.2-snapshot-4 \(or greater\)
+- Minecraft JE 26.3-snapshot-4 \(or greater\)
 
 Branches \(Only main branch is active, other branches are suspended\)
 - 25w42a ~ 26.2-ss2: [here](https://github.com/LiaoxyuCM/limpack/tree/1.21.11-26.1)
